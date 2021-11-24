@@ -16,7 +16,7 @@ body{
 
 header{
     text-align: center;
-    background: url(file:///D:/practice/firts%20staps/4/img/layer1.png);    
+    background: url(../img/layer1.png);    
     width: 100%;
     padding-bottom: 30px;
 }
@@ -248,7 +248,7 @@ nav{
     padding-bottom: 100px;
     padding-top: 100px;
     padding-left: 10%;
-    background-image: url(file:///D:/practice/firts%20staps/4/img/block_7_background.png);
+    background-image: url(../img/block_7_background.png);
 }
 .left_extensions{
     margin-top: 140px;
@@ -335,7 +335,7 @@ nav{
 .contact-us{
     padding-top: 140px;
     text-align: center;
-    background-image: url(file:///D:/practice/firts%20staps/4/img/backgroung_block_9.png);
+    background-image: url(../img/backgroung_block_9.png);
 }
 .bottom_contact-us{
     width: 100%;
